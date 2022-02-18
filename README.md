@@ -3,7 +3,7 @@
 [![made-with-java](https://img.shields.io/badge/Made%20with-Java-blue)](https://www.java.com/pt-BR/)
 ![license-MIT](https://img.shields.io/badge/license-MIT-green)
 
-> Status do Projeto: :heavy_check_mark: completed
+> Project Status: :heavy_check_mark: completed
 ### Topics
 
 :small_blue_diamond: [Project Description](#Project-Description)
