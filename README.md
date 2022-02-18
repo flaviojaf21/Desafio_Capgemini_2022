@@ -71,7 +71,6 @@ Output:
 
 > She can make the password secure by adding 3 characters, for example, &ab, by turning the password into Ya3&ab. 2 characters are not enough since the password must have a minimum size of 6 characters.
 
----
 ### Resolution:
 
 Java regular expressions were used to check if the password is strong according to security policy (https://acervolima.com/expressoes-regulares-em-java/) 
