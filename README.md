@@ -12,9 +12,9 @@
 
 :small_blue_diamond: [Installation](#installation)
       
-      :small_blue_diamond: [JDK11](#JDK11)
+      - [JDK11](#JDK11)
       
-      :small_blue_diamond:[VsCode](#VsCode)
+      - [VsCode](#VsCode)
       
 :small_blue_diamond: [How to run the App](#How-to-run-the-App)
 
