@@ -21,7 +21,7 @@
 ## Project Description
 
 <p align="justify">
-   Este projeto refere-se a resolução do desafio de programação do processo seletivo da "Academia Capgemini 2022" realizado no período de 14 a 20 de fevereiro.
+  Este projeto refere-se a resolução do desafio de programação do processo seletivo da "Academia Capgemini 2022" realizado no período de 14 a 20 de fevereiro.
   
   This project refers to the resolution of the programming challenge of the selection process of the "Capgemini Academy 2022" held from February 14 to 20.
 </p>
@@ -72,6 +72,11 @@ Output:
 > She can make the password secure by adding 3 characters, for example, &ab, by turning the password into Ya3&ab. 2 characters are not enough since the password must have a minimum size of 6 characters.
 
 ---
+### Resolution:
+
+Java regular expressions were used to check if the password is strong according to security policy (https://acervolima.com/expressoes-regulares-em-java/) 
+
+---
 ## Question 3
 
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
@@ -109,7 +114,6 @@ Output:
 > The list of all even anagrams are: [i, i], [q, q] and [ifa, fai] that are in positions [[0], [3]], [[8], [9]] and [[0, 1, 2], [1, 2, 3]].
 
 ---
-
 ## Prerequisites
 
 The following technologies were used in the construction of the project:
