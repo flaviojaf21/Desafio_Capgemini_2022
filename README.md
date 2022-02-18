@@ -10,12 +10,8 @@
 
 :small_blue_diamond: [Prerequisites](#Prerequisites)
 
-:small_blue_diamond: [Installation](#installation)
-
-      1. [JDK11](#JDK11)
-      
-      2. [VsCode](#VsCode)
-      
+:small_blue_diamond: [Installation](#installation) :small_blue_diamond: [JDK11](#JDK11) :small_blue_diamond:[VsCode](#VsCode)
+         
 :small_blue_diamond: [How to run the App](#How-to-run-the-App)
 
 :small_blue_diamond: [License](#License)
