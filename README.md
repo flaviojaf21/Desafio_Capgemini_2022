@@ -30,6 +30,7 @@
 
 Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
 
+
 Write an algorithm that shows on the screen a ladder of size n using the * character and spaces. The base and height of the ladder must be equal to the value of n. The last line should not contain any space.
 
  ### Example:
@@ -51,6 +52,7 @@ Output:
 ## Question 2
 
 Débora digitou uma string aleatória no campo de senha, porém ela não tem certeza se é uma senha forte. Para ajudar Débora, construa um algoritmo que informe qual é o número mínimo de caracteres que devem ser adicionados para uma string qualquer ser considerada segura.
+
 
 Deborah typed a random string into the password field, but she's not sure if it's a strong password. To help Deborah, build an algorithm that says what is the minimum number of characters that should be added to any string that is considered safe.
 
