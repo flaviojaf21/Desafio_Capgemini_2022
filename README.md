@@ -121,7 +121,7 @@ The following technologies were used in the construction of the project:
 - [JDK 11][JDK11]
 - [Visual Studio Code version 1.64.2][VsCode]
 
----
+--
 Requirements and environment:
 
 - [Vscode][vscode]
