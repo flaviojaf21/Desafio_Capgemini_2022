@@ -3,8 +3,7 @@
 [![made-with-java](https://img.shields.io/badge/Made%20with-Java-blue)](https://www.java.com/pt-BR/)
 ![license-MIT](https://img.shields.io/badge/license-MIT-green)
 
-> Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
-
+> Status do Projeto: :heavy_check_mark: completed
 ### Topics
 
 :small_blue_diamond: [Project Description](#Project-Description)
@@ -12,8 +11,11 @@
 :small_blue_diamond: [Prerequisites](#Prerequisites)
 
 :small_blue_diamond: [Installation](#installation)
+      
       :small_blue_diamond: [JDK11](#JDK11)
+      
       :small_blue_diamond:[VsCode](#VsCode)
+      
 :small_blue_diamond: [How to run the App](#How-to-run-the-App)
 
 :small_blue_diamond: [License](#License)
