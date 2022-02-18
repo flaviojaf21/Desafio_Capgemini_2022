@@ -68,6 +68,7 @@ Output:
 ```
 ### Explication:
 > Ela pode tornar a senha segura adicionando 3 caracteres, por exemplo, &ab, transformando a senha em Ya3&ab. 2 caracteres não são suficientes visto que a senha precisa ter um tamanho mínimo de 6 caracteres.
+
 > She can make the password secure by adding 3 characters, for example, &ab, by turning the password into Ya3&ab. 2 characters are not enough since the password must have a minimum size of 6 characters.
 
 ---
