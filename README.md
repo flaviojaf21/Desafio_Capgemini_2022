@@ -90,6 +90,7 @@ Output:
 ```
 ### Explication:
  > A lista de todos os anagramas pares são: [o, o], [ov, vo] que estão nas posições [[0], [2]], [[0, 1], [1, 2]] respectivamente. 
+
  > The list of all even the anagrams are: [o, o], [ov, vo] that are in positions [[0], [2]], [[0, 1], [1, 2]] respectively.
 
 ### Example 2:
@@ -104,6 +105,7 @@ Output:
 ```
 ### Explication:
 > A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão nas posições [[0], [3]], [[8],  [9]] e [[0, 1, 2], [1, 2, 3]].
+
 > The list of all even anagrams are: [i, i], [q, q] and [ifa, fai] that are in positions [[0], [3]], [[8], [9]] and [[0, 1, 2], [1, 2, 3]].
 
 ---
