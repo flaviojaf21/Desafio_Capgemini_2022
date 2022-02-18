@@ -30,6 +30,8 @@
 
 Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
 
+Write an algorithm that shows on the screen a ladder of size n using the * character and spaces. The base and height of the ladder must be equal to the value of n. The last line should not contain any space.
+
  ### Example:
 
 Input:
@@ -45,11 +47,12 @@ Output:
  *****
 ******
 ```
-##### Language: Java
 ---
 ## Question 2
 
 Débora digitou uma string aleatória no campo de senha, porém ela não tem certeza se é uma senha forte. Para ajudar Débora, construa um algoritmo que informe qual é o número mínimo de caracteres que devem ser adicionados para uma string qualquer ser considerada segura.
+
+Deborah typed a random string into the password field, but she's not sure if it's a strong password. To help Deborah, build an algorithm that says what is the minimum number of characters that should be added to any string that is considered safe.
 
 ### Example
 
@@ -63,12 +66,14 @@ Output:
 ```
 ### Explication:
 > Ela pode tornar a senha segura adicionando 3 caracteres, por exemplo, &ab, transformando a senha em Ya3&ab. 2 caracteres não são suficientes visto que a senha precisa ter um tamanho mínimo de 6 caracteres.
+> She can make the password secure by adding 3 characters, for example, &ab, by turning the password into Ya3&ab. 2 characters are not enough since the password must have a minimum size of 6 characters.
 
-##### Language: Java
 ---
 ## Question 3
 
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
+
+Two words can be considered anagrams of themselves if the letters of one word can be relocated to form the other word. Given any string, develop an algorithm that finds the number of pairs of substrings that are anagrams.
 
 ### Example 1:
 
@@ -82,6 +87,7 @@ Output:
 ```
 ### Explication:
  > A lista de todos os anagramas pares são: [o, o], [ov, vo] que estão nas posições [[0], [2]], [[0, 1], [1, 2]] respectivamente. 
+ > The list of all even the anagrams are: [o, o], [ov, vo] that are in positions [[0], [2]], [[0, 1], [1, 2]] respectively.
 
 ### Example 2:
 
@@ -95,10 +101,9 @@ Output:
 ```
 ### Explication:
 > A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão nas posições [[0], [3]], [[8],  [9]] e [[0, 1, 2], [1, 2, 3]].
+> The list of all even anagrams are: [i, i], [q, q] and [ifa, fai] that are in positions [[0], [3]], [[8], [9]] and [[0, 1, 2], [1, 2, 3]].
 
-##### Language: Java
 ---
-
 
 ## Prerequisites
 
