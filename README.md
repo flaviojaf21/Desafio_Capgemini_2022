@@ -12,8 +12,8 @@
 :small_blue_diamond: [Prerequisites](#Prerequisites)
 
 :small_blue_diamond: [Installation](#installation)
-      - [JDK11](#JDK11)
-      - [VsCode](#VsCode)
+      :small_blue_diamond: [JDK11](#JDK11)
+      :small_blue_diamond:[VsCode](#VsCode)
 :small_blue_diamond: [How to run the App](#How-to-run-the-App)
 
 :small_blue_diamond: [License](#License)
@@ -193,20 +193,5 @@ Footnotes
 [ubuntu]: https://ubuntu.com/
 [JDK11]: https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html
 [VsCode]: https://code.visualstudio.com/
-[typescript]: https://www.typescriptlang.org/
-[typeorm]: https://typeorm.io/#/
-[Joi]: https://joi.dev/api/?v=17.4.2
-[docker]: https://docs.docker.com/
-[bcrypt]: https://www.npmjs.com/package/bcryptjs
-[jsonwebtoken]: https://www.npmjs.com/package/jsonwebtoken
-[multer]: https://www.npmjs.com/package/multer
-[datefns]: https://date-fns.org/
-[ethereal]: https://ethereal.email/
-[handlebars]: https://handlebarsjs.com/
-[Vscode]: https://code.visualstudio.com/
-[nodemon]: https://www.npmjs.com/package/nodemon
-[cryptojs]: https://www.npmjs.com/package/crypto-js
-[expresserrors]: https://www.npmjs.com/package/express-async-errors
-[Insomnia]: https://insomnia.rest/
 
 
