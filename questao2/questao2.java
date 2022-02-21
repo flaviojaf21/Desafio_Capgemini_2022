@@ -5,21 +5,35 @@ public class questao2 {
 
     public static void main(String[] args) {
         
-        int dif;
-        String senha = Cadastre_a_senha();        
-            
-        dif = 6-(senha.length());
-
-        // veriifca se a senha é menor que 6 se for maior então verifica se a senha é forte
-        if(dif>0){
-            System.out.println(dif);   
+        String senha = Cadastre_a_senha();  
+        int tam = senha.length();
+        questao2  q2 = new questao2();
+        int res= q2.tamanhosenha(tam);   
+        
+         // veriifca se a senha é menor que 6 se for maior então verifica se a senha é forte
+         if(res>0){
+            System.out.println(res);   
         } else if (validarsenha(senha)) {
             System.out.println("Senha válida");
         } else{
             System.out.println("Senha não é forte conforme a Política de Segurança:\n Possui no mínimo 6 caracteres\n Contem no mínimo 1 digito \n Contem no mínimo 1 letra em maíúscula \n Contem no mínimo 1 letra em minúscula \n Contem no mínimo 1 caractere especial. ");
         }  
+ 
+    } // fim main ()
 
-    } // fim main () 
+    /**
+	 * Este metodo verifica quanto falta para a senha chegar a 6 caracteres
+     *  
+	 * retorna o inteiro dif
+	 */
+   
+    public int tamanhosenha(int tam){
+        int dif;     
+        dif = 6-tam;
+        return dif;
+    }//fim metodo tamanhosenha
+
+
 
     /**
 	 * Este metodo pede para o usuario cadastrar sua senha
