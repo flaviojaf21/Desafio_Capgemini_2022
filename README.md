@@ -129,6 +129,8 @@ Requirements and environment:
     - Extension Pack for Java
     - Dracula theme
     - Material icon
+    - junit-4.13.2
+    - hamcrest-core-1.3
     
 ## Instalation
 The instalation of Vscode used the command curl, therefore it is necessary to install it.
